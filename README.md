@@ -22,9 +22,9 @@ at regular time intervals.
 1. Open Command Prompt (CMD)
 2. Go to the `src` folder of the project:
 3. Compile the program:
-   cd C:\PostureReminder\src (depends where you put the file)
-   javac *.java
-   java Main
+4. cd C:\PostureReminder\src (depends where you put the file)
+5. javac *.java
+6. java Main
 
 ---
 
