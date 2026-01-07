@@ -31,10 +31,3 @@ a popup message shows and then closes automatically.
 - `ReminderPopup.java` – popup window
 
 ---
-
-## Programming Concepts Used
-- Scanner
-- If-else statements
-- While loop
-- Arrays
-- Object-Oriented Programming (OOP)
