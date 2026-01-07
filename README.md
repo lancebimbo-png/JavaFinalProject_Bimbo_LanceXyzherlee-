@@ -1,33 +1,34 @@
-# Posture Reminder System
+Posture Reminder System
 
-## About the Project
-This is a console-based Java program that reminds the user to fix their posture.
-The user can choose how often the reminder appears. When the time is reached,
-a popup message shows and then closes automatically.
+---
+
+Many computer users forget to maintain proper posture while working for long
+periods of time. Poor posture can cause back pain and other health problems.
+This program helps solve that problem by reminding the user to fix their posture
+at regular time intervals.
+
+---
+
+- Console-based menu
+- User can set the reminder time in minutes
+- Popup message reminds the user to fix their posture
+- Popup automatically closes after a few seconds
+- Reminder history is stored using an array
+- Uses Object-Oriented Programming (OOP)
 
 ---
 
 ## How to Run the Program
-
 1. Open Command Prompt (CMD)
-2. Go to the `src` folder of the project
-3. Compile the program
-4. Run the program
+2. Go to the `src` folder of the project:
+cd C:\PostureReminder\src
+3. Compile the program:
 
 ---
 
-## How It Works
-- The program runs in the console
-- The user sets the reminder time in minutes
-- A popup reminder appears
-- The popup closes by itself
-- Reminder history is saved using an array
-
----
-
-## Files Used
-- `Main.java` – main menu and user input
-- `PostureReminder.java` – reminder logic
-- `ReminderPopup.java` – popup window
-
----
+## Sample Output
+=== POSTURE REMINDER SYSTEM ===
+1. Set reminder interval (minutes)
+2. Start reminder
+3. View reminder history
+4.Exit
