@@ -1,4 +1,4 @@
-Posture Reminder System
+# Posture Reminder System
 
 ---
 
