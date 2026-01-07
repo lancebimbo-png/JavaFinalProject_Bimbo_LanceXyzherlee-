@@ -21,7 +21,7 @@ at regular time intervals.
 ## How to Run the Program
 1. Open Command Prompt (CMD)
 2. Go to the `src` folder of the project:
-cd C:\PostureReminder\src
+cd C:\PostureReminder\src (depends where you put the file)
 3. Compile the program:
 
 ---
