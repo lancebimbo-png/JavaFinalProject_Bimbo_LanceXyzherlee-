@@ -22,9 +22,9 @@ at regular time intervals.
 1. Open Command Prompt (CMD)
 2. Go to the `src` folder of the project:
 3. Compile the program:
-4. cd C:\PostureReminder\src (depends where you put the file)
-5. javac *.java
-6. java Main
+   cd C:\PostureReminder\src (depends where you put the file)
+   javac *.java
+   java Main
 
 ---
 
@@ -33,4 +33,4 @@ at regular time intervals.
 1. Set reminder interval (minutes)
 2. Start reminder
 3. View reminder history
-4.Exit
+4. Exit
